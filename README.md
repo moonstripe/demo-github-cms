@@ -1,5 +1,7 @@
 # Simple Fresh Blog Tutorial
 
+by Kojin Glick
+
 ### Description
 
 A simple blog built in Fresh and Deno. Fully server-side rendered. Pulls articles from Markdown files stored in "/content".
